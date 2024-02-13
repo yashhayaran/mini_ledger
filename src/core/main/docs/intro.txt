@@ -1,0 +1,5 @@
+This app is like the central component of the entire system.
+System:
+1. Generates invoice
+2. Inventory management system
+
